@@ -1,0 +1,24 @@
+.windows{
+    margin: 200px auto 0px;
+    width: 400px;
+    height: 300px;
+    padding: 50px 0px 0px 50px;
+}
+.windows_day{
+    background: skyblue;
+}
+.windows_night{
+    background: darkblue;
+}
+.sun{
+    background: yellow;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+.sun_day{
+    background: yellow;
+}
+.sun_night{
+    background: rgb(243, 243, 187);
+}
